@@ -1,0 +1,6 @@
+framework module IOSBsComponents {
+  umbrella header "IOSBsComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}

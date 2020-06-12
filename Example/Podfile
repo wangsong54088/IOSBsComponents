@@ -1,0 +1,6 @@
+use_frameworks!
+target 'IOSBsComponents_Tests' do
+  pod 'IOSBsComponents', :path => '../'
+  
+  
+end

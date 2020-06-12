@@ -1,0 +1,32 @@
+{
+  "name": "IOSBsComponents",
+  "version": "0.1.0",
+  "summary": "测试",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangsong54088/IOSBsComponents",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2238007273@qq.com": "jim@ak.com"
+  },
+  "source": {
+    "git": "https://github.com/wangsong54088/IOSBsComponents.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IOSBsComponents/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}
